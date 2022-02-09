@@ -2,7 +2,7 @@
 This repository contains the code and instructions for setting up for the AI in Drug Discovery workshop sessions.
 
 ## Contents
-During the workshop, we will be using a framework for machine learning in drug discovery called [DeepChem](https://github.com/deepchem/deepchem). DeepChem is a Python library/toolchain that combines multiple machine learning algorithms, frameworks and datasets and provides a unified interface for training and evaluating models in drug discovery.
+During the workshop, we will be using a framework for machine learning in drug discovery called [DeepChem](https://github.com/deepchem/deepchem). DeepChem is a Python library and toolchain that combines multiple machine learning algorithms, frameworks and datasets and provides a unified interface for training and evaluating models in drug discovery.
 
 For each workshop session, we will be practically using DeepChem through a set of tutorial [Jupyter Notebooks](https://ipython.org/notebook.html) from the [DeepChem library](https://github.com/deepchem/deepchem/tree/master/examples/tutorials).
 
@@ -27,17 +27,17 @@ This workshop will introduce you to the basics of DeepChem and will allow you to
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Molecular_Fingerprints.ipynb)
 
 ## Getting Started
-In order to get started it is recommended you clone this repository locally, even if working in google colab. This will download the repository content to your local machine. to clone the repository locally, open a terminal (command prompt/powershell on windows) and type:
+In order to get started it is recommended you clone this repository locally, even if working in google colab. This will download the repository content to your local machine. To clone the repository locally, open a terminal (command prompt/powershell on windows) and type:
 
 `git clone https://github.com/GouldGroup/aidd-workshops.git`
 
-Before each workshop session, this repository will be updated with the new workshop content. To update you're local copy of the repository, open a terminal in the current directory (command prompt/powershell on windows) and type:
+Before each workshop session, this repository will be updated with the new workshop content. To update your local copy of the repository, open a terminal in the current directory (command prompt/powershell on windows) and type:
 
 `git pull`
 
 for each workshop session, you will find the relevant Jupyter Notebooks within the respective workshop directory in this repository (e.g. `Workshop_1/The_Basic_Tools_of_the_Deep_Life_Sciences.ipynb`). You will also find google colab links to the notebooks in the contents section of this readme. 
 
-If you choose to work in colab (recommended), you can open the notebooks in colab by clicking on the links in the contents section of this readme. You will need to be signed in to your google account. Should you wish to work locally, follow the instructions in the [Setup](##Setup) section below.
+If you choose to work in colab (recommended), you can open the notebooks in colab by clicking on the links in the contents section of this readme. You will need to be signed in to your google account. Should you wish to work locally, follow the instructions in the [Setup](#Setup) section below.
 
 ## Setup
 To setup the development environment for these workshops, you need to have some conda distribution installed. We will use [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for this workshop.
