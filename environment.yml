@@ -1,0 +1,44 @@
+# conda environment yaml
+name: deepchem
+channels:
+  - conda-forge
+dependencies:
+  - python==3.8.*
+  - openmm
+  - pdbfixer
+  - rdkit
+  - mdtraj
+  - numpy>=1.21
+  - pip==20.2.*
+  - deepchem
+  - IPython
+  - rdkit
+  - scipy
+  - matplotlib
+  - pandas
+  - pip:
+    - flake8
+    - flaky
+    - mypy
+    - pytest
+    - pytest-cov
+    - types-pkg_resources
+    - types-setuptools
+    - yapf==0.22.0
+    - pre-commit
+    - biopython
+    - dgllife==0.2.8
+    - lightgbm==3.*
+    - matminer
+    - mordred
+    - networkx
+    - pillow
+    - pubchempy
+    - pyGPGO
+    - pymatgen==2020.12.31
+    - simdna
+    - transformers==4.6.*
+    - xgboost==1.*
+    - git+https://github.com/samoturk/mol2vec
+    - tensorboard
+  
