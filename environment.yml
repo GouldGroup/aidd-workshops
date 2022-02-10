@@ -17,6 +17,7 @@ dependencies:
   - matplotlib
   - pandas
   - tensorflow
+  - ipykernel
   - pip:
     - flake8
     - flaky
