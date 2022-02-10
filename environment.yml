@@ -3,22 +3,21 @@ name: deepchem
 channels:
   - conda-forge
 dependencies:
-  - python==3.8.*
-  - openmm
+  - python==3.7.*
+  - deepchem
   - pdbfixer
   - rdkit
   - mdtraj
   - numpy>=1.21
   - pip==20.2.*
-  - deepchem
   - IPython
-  - rdkit
   - scipy
   - matplotlib
   - pandas
-  - tensorflow
   - ipykernel
+  - openmm
   - pip:
+    - notebook
     - flake8
     - flaky
     - mypy
@@ -43,4 +42,8 @@ dependencies:
     - xgboost==1.*
     - git+https://github.com/samoturk/mol2vec
     - tensorboard
+    - tensorflow==2.3.*
+    - tensorflow_probability
+    - tensorflow_addons
+    - torch
   
