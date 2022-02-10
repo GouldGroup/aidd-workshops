@@ -31,6 +31,10 @@ In order to get started it is recommended you clone this repository locally, eve
 
 `git clone https://github.com/GouldGroup/aidd-workshops.git`
 
+you should then have a new directory called `aidd-worshops`, navigate to this directory by typing:
+
+`cd aidd-workshops`
+
 Before each workshop session, this repository will be updated with the new workshop content. To update your local copy of the repository, open a terminal in the current directory (command prompt/powershell on windows) and type:
 
 `git pull`
