@@ -6,7 +6,32 @@ During the workshop, we will be using a framework for machine learning in drug d
 
 For each workshop session, we will be practically using DeepChem through a set of tutorial [Jupyter Notebooks](https://ipython.org/notebook.html) from the [DeepChem library](https://github.com/deepchem/deepchem/tree/master/examples/tutorials).
 
-### Workshop 1: Introduction to DeepChem (10/02/2022) - Current
+### Workshops 2 and 3: Ligand and strucure based predictive modelling (23-24/02/2022) - Current
+
+This workshop covers lectures 3-5 of the AI in Drug Discovery lecture course.
+
+1. [Creating a High Fidelity Dataset from Experimental Data](Workshops_2_3/Creating_a_high_fidelity_model_from_experimental_data.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Creating_a_high_fidelity_model_from_experimental_data.ipynb)
+
+2. [Creating Models with TensorFlow and PyTorch](Workshops_2_3/Creating_Models_with_TensorFlow_and_PyTorch.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Creating_Models_with_TensorFlow_and_PyTorch.ipynb)
+
+3. [Going Deeper On Molecular Featurizations](Workshops_2_3/Going_Deeper_on_Molecular_Featurizations.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Going_Deeper_on_Molecular_Featurizations.ipynb)
+
+4. [Working With Splitters](Workshops_2_3/Working_With_Splitters.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Working_With_Splitters.ipynb)
+
+5. [Introduction to Graph Convolutions](Workshops_2_3/Introduction_to_Graph_Convolutions.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Introduction_to_Graph_Convolutions.ipynb)
+
+
+### Workshop 1: Introduction to DeepChem (10/02/2022)
 
 This workshop will introduce you to the basics of DeepChem and will allow you to familiarize yourself with the library.
 
