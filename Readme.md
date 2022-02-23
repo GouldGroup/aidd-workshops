@@ -12,7 +12,7 @@ This workshop covers lectures 3-5 of the AI in Drug Discovery lecture course.
 
 1. [Creating a High Fidelity Dataset from Experimental Data](Workshops_2_3/Creating_a_high_fidelity_model_from_experimental_data.ipynb)
 
-    [![Open In Colab](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshops_2_3/Creating_a_high_fidelity_model_from_experimental_data.ipynb)]
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshops_2_3/Creating_a_high_fidelity_model_from_experimental_data.ipynb)
 
 2. [Creating Models with TensorFlow and PyTorch](Workshops_2_3/Creating_Models_with_TensorFlow_and_PyTorch.ipynb)
 
