@@ -6,7 +6,18 @@ During the workshop, we will be using a framework for machine learning in drug d
 
 For each workshop session, we will be practically using DeepChem through a set of tutorial [Jupyter Notebooks](https://ipython.org/notebook.html) from the [DeepChem library](https://github.com/deepchem/deepchem/tree/master/examples/tutorials).
 
-### Workshops 2 and 3: Ligand and strucure based predictive modelling (23-24/02/2022) - Current
+### Workshop 4: Modeling protein-ligand interactions (02/03/2022) - Current
+
+1. [Modeling Protein-Ligand Interactions](Workshop_4/Modeling_Protein_Ligand_Interactions.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Modeling_Protein_Ligand_Interactions.ipynb)
+
+2. [Modeling Protein-Ligand Interactions with Atomic Convolutions](Workshop_4/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Modeling_Protein_Ligand_Interactions_With_Atomic_Convolutions.ipynb)
+
+
+### Workshops 2 and 3: Ligand and strucure based predictive modelling (23-24/02/2022)
 
 This workshop covers lectures 3-5 of the AI in Drug Discovery lecture course.
 
