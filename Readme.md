@@ -81,7 +81,7 @@ If you choose to work in colab (recommended), you can open the notebooks in cola
 To setup the development environment for these workshops, you need to have some conda distribution installed. We will use [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for this workshop.
 
 ### Install Miniconda
-Download and install the relevant version of Miniconda for your operating system. (you are probably running a Windows 64-bit or MAC 64-bit system). If you are using an M1 mac it is still recommended to install the 64-bit version of Miniconda.
+Download and install the relevant version of Miniconda for your operating system. (you are probably running a Windows 64-bit or MAC 64-bit system).
 
 ### Install Dependencies
 To install the required dependencies for the workshop and create a development environment for DeepChem, open a terminal in the current directory (Anaconda Prompt on Windows) and type:
