@@ -40,7 +40,7 @@ This workshop covers lectures 3-5 of the AI in Drug Discovery lecture course.
 
 3. [Going Deeper On Molecular Featurizations](Workshops_2_3/Going_Deeper_on_Molecular_Featurizations.ipynb)
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Going_Deeper_on_Molecular_Featurizations.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GouldGroup/aidd-workshops/blob/main/Workshops_2_3/Going_Deeper_on_Molecular_Featurizations.ipynb)
 
 4. [Working With Splitters](Workshops_2_3/Working_With_Splitters.ipynb)
 
