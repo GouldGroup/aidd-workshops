@@ -1,34 +1,20 @@
-# conda environment yaml
 name: deepchem
 channels:
   - conda-forge
+  - defaults
+  - bioconda
 dependencies:
-  - python==3.7.*
-  - deepchem
-  - pdbfixer
-  - rdkit
-  - mdtraj
-  - numpy>=1.21
-  - pip==20.2.*
-  - IPython
-  - scipy
-  - matplotlib
-  - pandas
-  - ipykernel
   - openmm
+  - mdtraj
+  - pdbfixer
+  - pip
+  - hhsuite
   - pip:
-    - notebook
-    - flake8
-    - flaky
-    - mypy
-    - pytest
-    - pytest-cov
-    - types-pkg_resources
-    - types-setuptools
-    - yapf==0.22.0
+    - numpy
+    - rdkit
     - pre-commit
     - biopython
-    - dgllife==0.2.8
+    - dgllife
     - lightgbm==3.*
     - matminer
     - mordred
@@ -36,14 +22,23 @@ dependencies:
     - pillow
     - pubchempy
     - pyGPGO
-    - pymatgen==2020.12.31
+    - pymatgen
     - simdna
-    - transformers==4.6.*
-    - xgboost==1.*
-    - git+https://github.com/samoturk/mol2vec
+    - transformers==4.10.*
+    - xgboost
+    - gensim  # used by mol2vec 
     - tensorboard
-    - tensorflow==2.3.*
+    - vina
+    - -f https://download.pytorch.org/whl/cpu/torch_stable.html
+    - -f https://data.pyg.org/whl/torch-1.12.0+cpu.html
+    - -f https://data.dgl.ai/wheels/repo.html
+    - dgl
+    - torch==1.12.0+cpu
+    - torch-scatter
+    - torch-sparse
+    - torch-geometric
+    - pytorch-lightning==1.6.5
+    - deepchem
+    - tensorflow
     - tensorflow_probability
     - tensorflow_addons
-    - torch
-  
